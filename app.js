@@ -10,4 +10,4 @@ app.use(express.json());
 TuitsController(app)  // register the tuits controller
 HelloController(app)    // register the hello controller
 UserController(app)     // register the user controller
-app.listen(process.env.PORT || 4000)
+app.listen(process.env.PORT || 4000);
