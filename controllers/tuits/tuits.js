@@ -24,7 +24,7 @@ export default [
         "title": "Neurolink fixes paralisis and blindness",
         "tuit": "Neurolink is an American company founded by Elon Musk that specializes in brain to " +
             "computer integration. The first application will be to cure spinal cord injuries so that " +
-            "paraplegics can walk again. Other applications include curing blindness and mental disorders.",
+            "paraplegics can walk again. Other applications include curing blindness and mental disorder.",
         "liked": true, "likes": 3456, "replies": 345, "retuits": 654
     },
 ];
